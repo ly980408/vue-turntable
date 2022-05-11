@@ -1,24 +1,7 @@
 # vue-turntable
 
-## Project setup
-```
-yarn install
-```
+Vue 大转盘抽奖组件
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 参考
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[NutUI-Bingo: Turntable组件](https://nutui.jd.com/bingo/#/turntable)
